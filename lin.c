@@ -2,7 +2,7 @@
 
 int main()
 {
-    int i =0, len, k, first = -1, last = -1, n;
+    int i =0, k, first = -1, last = -1, n;
 	scanf("%d", &n);
 	scanf("%d", &k);
 	int arr[n];
